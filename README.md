@@ -10,7 +10,7 @@ The easiest way to install the library to your C/C++ project is to copy 'n' past
 
 ```c++
 #include "sorted_set.hpp"
-#imclude "sorted-map.hpp"
+#include "sorted_map.hpp"
 ```
 
 Usage
